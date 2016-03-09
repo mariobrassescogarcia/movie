@@ -1,0 +1,117 @@
+
+html{
+	background: url("https://images3.alphacoders.com/523/52309.jpg") no-repeat center center fixed;
+	background-size: cover;
+
+}
+
+
+
+body{
+	color: black;
+	font-family: "Droid Sans";
+}
+
+header{
+	font-size: 120px;
+	color: #9c1119;
+	font-variant: normal;
+	text-align: center;
+	width: 1000px;
+	height: 100px;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+.articlebox{
+	background-color: black;
+	width: 1000px;
+	height: 1000px;
+	margin: auto;
+	opacity: 0.75;
+}
+
+.photobox{
+	background-color: white;
+	color: black;
+	width: 440px;
+	float: left;
+	height: 600px;
+	text-align: center;
+	margin: 30px;
+}
+
+img{
+	width: 440px;
+	height: 600px;
+}
+
+.textbox{
+	background-color: #a79479;
+	color: black;
+	width: 440px;
+	float: right;
+	height: 600px;
+	text-align: center;
+	margin: 30px;
+}
+
+.synopsisheading{
+	font-size: 32px;
+	color: #9c1119;
+
+
+}
+
+
+
+.textparagraph{
+	font-size: 15px;
+	text-align: justify;
+	width: 90%;
+	margin: auto;
+
+}
+
+
+
+.infobox{
+	background-color: #9c1119;
+	color:#a79479;
+	font-size: 15px;
+	width: 940px;
+	float: left;
+	height: 300px;
+	margin-bottom: 30px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.infotext{
+	margin: 15px;
+}
+
+footer{
+	background-color: black;
+	opacity: 0.75;
+	color: white;
+	width: 1000px;
+	height: 100px;
+	margin: auto;
+	text-align: center;
+}
+
+.footertext{
+	margin: auto;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+
+
+
+
+
+
+
